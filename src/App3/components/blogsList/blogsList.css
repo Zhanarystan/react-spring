@@ -1,0 +1,31 @@
+.card-custom{
+    width:440px;
+    height: 120px;
+    margin-bottom: 5px;
+}
+
+.blogs-wrapper{
+    overflow-y: auto;
+    height: 380px;
+    width: 442px;
+}
+.card-img-blog{
+    width: 60px;
+    height: 60px;
+}
+.subs-blog{
+    width: 440px;
+    height: 60px;
+    background-color: dodgerblue;
+    color:white;
+    font-size: 12px;
+}
+
+.follow-blog{
+    width: 440px;
+    background-color: dodgerblue;
+    color:white;
+    font-size: 14px;
+    height: 100px;
+    
+}

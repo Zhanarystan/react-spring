@@ -1,0 +1,32 @@
+.banner{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.banner-image{
+    width: 100%;
+    height: 300px;
+    
+}
+
+.icon{
+    border-radius: 50%;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.icon1{
+    background-color:#2a93e3;
+}
+
+.icon2{
+    background-color: #00c1cd;
+}
+.icon3{
+    background-color:#4ab14f;
+}
+.icon4{
+    background-color: #f44434;
+}
+

@@ -1,0 +1,19 @@
+.card{
+    width: 640px;
+    
+    font-size: 11px;
+}
+
+.card h5{
+    font-size: 13px;
+}
+
+.card-body{
+    overflow-y: auto;
+    
+    
+}
+
+.card-img{
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+.card-custom{
+    width: 17rem;
+    border-color: white;
+}
+
+.btn-sign-in{
+    background-color:  #046464;
+    color: white;
+    width: 6rem;
+}
+
+#remember{
+    margin: .4rem;
+}

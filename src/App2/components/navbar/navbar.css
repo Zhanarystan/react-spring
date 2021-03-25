@@ -1,0 +1,20 @@
+.navbar-custom{
+    background-color: #046464;
+}
+
+.brand-custom{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+.brand-custom:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+.nav-link{
+    color: white;
+}
+

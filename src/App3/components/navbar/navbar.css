@@ -1,0 +1,20 @@
+.navbar-custom{
+    background-color: #2c4c64;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+
+.dropdown-menu{
+    width: 300px;
+    padding: 5 5 5 5;
+    
+}
